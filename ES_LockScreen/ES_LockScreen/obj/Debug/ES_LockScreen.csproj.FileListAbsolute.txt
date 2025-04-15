@@ -34,3 +34,16 @@ C:\Users\Yamen\OneDrive - BTH Student\Desktop\ES_LockScreen\ES_LockScreen\obj\De
 C:\Users\Yamen\OneDrive - BTH Student\Desktop\ES_LockScreen\ES_LockScreen\obj\Debug\ES_LockS.8758EDB4.Up2Date
 C:\Users\Yamen\OneDrive - BTH Student\Desktop\ES_LockScreen\ES_LockScreen\obj\Debug\ES_LockScreen.exe
 C:\Users\Yamen\OneDrive - BTH Student\Desktop\ES_LockScreen\ES_LockScreen\obj\Debug\ES_LockScreen.pdb
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\bin\Debug\ES_LockScreen.exe.config
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\bin\Debug\ES_LockScreen.exe
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\bin\Debug\ES_LockScreen.pdb
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\bin\Debug\System.Data.SqlClient.dll
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\bin\Debug\System.Data.SqlClient.xml
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\obj\Debug\ES_LockScreen.csproj.AssemblyReference.cache
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\obj\Debug\ES_LockScreen.Form1.resources
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\obj\Debug\ES_LockScreen.Properties.Resources.resources
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\obj\Debug\ES_LockScreen.csproj.GenerateResource.cache
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\obj\Debug\ES_LockScreen.csproj.CoreCompileInputs.cache
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\obj\Debug\ES_LockS.8758EDB4.Up2Date
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\obj\Debug\ES_LockScreen.exe
+C:\Users\samir\Documents\GitHub\ES_lockscreen\ES_LockScreen\ES_LockScreen\obj\Debug\ES_LockScreen.pdb
