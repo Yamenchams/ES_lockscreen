@@ -8,6 +8,7 @@ using System.Diagnostics;
 using System.Collections.Generic;
 
 //SAMIR
+//SAmir
 namespace ES_LockScreen
 {
     public partial class Form1 : Form
