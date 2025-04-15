@@ -7,7 +7,7 @@ using Microsoft.Win32;
 using System.Diagnostics;
 using System.Collections.Generic;
 
-//SAMIR YAMEN 
+//SAMIR
 namespace ES_LockScreen
 {
     public partial class Form1 : Form
