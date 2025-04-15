@@ -1,0 +1,6 @@
+2025-04-02 12:37:46 | Card: 886128690 | Status: Access Granted
+2025-04-02 12:42:23 | Card: 886128690 | Status: Access Granted
+2025-04-02 12:45:17 | Card: 886128690 | Status: Access Granted
+2025-04-02 12:47:04 | Card: 886128690 | Status: Access Granted
+2025-04-02 12:47:13 | Card: 886128690 | Status: Access Granted
+2025-04-02 13:04:24 | Card: 886128690 | Status: Access Granted
